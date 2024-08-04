@@ -1,8 +1,6 @@
-
-
 # Protein Engineering Advances Using Generative AI 
 
-## The Creation of Novel Proteins {: style=“color: red; opacity: 0.80;” }
+## The Creation of Novel Proteins
 
 * Evozyne
 
