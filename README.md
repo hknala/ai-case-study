@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://www.evozyne.com/" target="_blank" rel="noopener">
+Header: Add Evozyne Logo Here
+Adjust Fonts / Color
 
 
 # Protein Engineering Advances Using Generative AI 
@@ -12,8 +12,9 @@
 
 * Founders Rama Ranganathan & Andrew Ferguson
 
-<div class="PeopleList-item-image lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201022%201200%22%2F%3E" data-bgset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h" style="background-image: url(&quot;https://www.evozyne.com/site/assets/files/1130/ramaranganathan.640x0.jpg&quot;);"><picture style="display: none;"><source data-srcset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h" sizes="432.6162018592298px" srcset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="432.6162018592298px"></picture></div>
+Add photos of founders.
 
+* Rama Ranganathan used his 20 years of experience understanding how evolution created the proteins that are know today. Using this experience he and his co-founder Andrew Ferguson developed machine-learning models from existing genome databases to generate novel proteins. 
 
 * The field of molecular engineering is hampered by the pace of human imagination and time. With the advent of generative AI, existing genome databases can synthesize novel proteins at breakneck speed.  
 
@@ -22,8 +23,8 @@
 ## Evozyne’s primary function is to develop novel proteins to advance the fields of healthcare, energy, and agriculture.
 
 * By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
-* Dramatic improvements in carbon capture and conversion into usable energy.
 
+* Dramatic improvements in carbon capture and conversion into usable energy.
 * Targeted drug therapy to minimize side effects.
 * Conversion of toxic chemicals into inert form for disposal.
 * Advances in polymers that do not harm the environment.  
