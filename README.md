@@ -13,6 +13,8 @@ Adjust Font / Color
 
 * Founders Rama Ranganathan & Andrew Ferguson
 
+![alt text](https://www.evozyne.com/all-people/team/rama-ranganathan/)
+
 Add photos of founders.
 
 > "Evolution is not like a normal engineering process,” said Ranganathan, the Joseph Regenstein Professor of Biochemistry and Molecular Biology and Molecular Engineering at the University of Chicago. “In a normal process you have a blueprint and basic principles, and some intelligent being is putting together our past knowledge to build a particular thing.”
