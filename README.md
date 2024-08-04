@@ -12,6 +12,9 @@
 
 * Founders Rama Ranganathan & Andrew Ferguson
 
+<div class="PeopleList-item-image lazyloaded" src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201022%201200%22%2F%3E" data-bgset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h" style="background-image: url(&quot;https://www.evozyne.com/site/assets/files/1130/ramaranganathan.640x0.jpg&quot;);"><picture style="display: none;"><source data-srcset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h" sizes="432.6162018592298px" srcset="/site/assets/files/1130/ramaranganathan.640x0.jpg 640w 753h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h, /site/assets/files/1130/ramaranganathan.1022x0.jpg 1022w 1202h"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="432.6162018592298px"></picture></div>
+
+
 * The field of molecular engineering is hampered by the pace of human imagination and time. With the advent of generative AI, existing genome databases can synthesize novel proteins at breakneck speed.  
 
 * Funding has been sourced from NVentures, Nvidia, OrbiMed, Valor Equity Partners, and Fidelity Investments. https://pitchbook.com/profiles/company/433306-00#investors
@@ -52,14 +55,16 @@
 * Innophore
 * Biomatter
 * Cambrium
-
+ 
 * Trends
+
+* The timeframe to adopt a new drug is approximately 2.5 billion dollars and takes between 10-15 years. The trend with AI driven tools will dramatically decrease the cost and time to market.  
 
 * Over the last 10 years there have been hundreds of start-ups founded receiving into the multi-billions of dollars in seed money.
 
 * The future of this technology is modifying the field of biology into an engineering discipline. 
 
-## Successes in Innovation of Novel Protein development
+## Successes in Innovation of Novel Protein Development
 
 * Created a therapeutic biologic increasing the efficiency of delivery by 250%. This discovery can be applied to a vast array of engineered novel proteins.
 
