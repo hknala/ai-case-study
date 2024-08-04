@@ -1,6 +1,6 @@
 Header: Add Evozyne Logo Here
 
-Adjust Fonts / Color
+Adjust Font / Color
 
 
 # Protein Engineering Advances Using Generative AI 
@@ -23,12 +23,12 @@ Add photos of founders.
 
 ## Evozyne’s primary function is to develop novel proteins to advance the fields of healthcare, energy, and agriculture.
 
-< * By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
+> * By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
 
-* Dramatic improvements in carbon capture and conversion into usable energy.
-* Targeted drug therapy to minimize side effects.
-* Conversion of toxic chemicals into inert form for disposal.
-* Advances in polymers that do not harm the environment.  
+>> * Dramatic improvements in carbon capture and conversion into usable energy.
+>> * Targeted drug therapy to minimize side effects.
+>> * Conversion of toxic chemicals into inert form for disposal.
+>> * Advances in polymers that do not harm the environment.  
 
 * The Agricultural, biopharmaceutical, industrial, energy, and environmental industries will benefit directly from this technology.  
 
