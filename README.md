@@ -3,11 +3,11 @@ Header: Add Evozyne Logo Here
 Adjust Font / Color
 
 
-# Protein Engineering Advances Using Generative AI 
+### Protein Engineering Advances Using Generative AI 
 
 ## The Creation of Novel Proteins
 
-* Evozyne
+### Evozyne
 
 * Founded in 2019
 
@@ -15,20 +15,23 @@ Adjust Font / Color
 
 Add photos of founders.
 
-* Rama Ranganathan used his 20 years of experience understanding how evolution created the proteins that are know today. Using this experience he and his co-founder Andrew Ferguson developed machine-learning models from existing genome databases to generate novel proteins. 
+> "Evolution is not like a normal engineering process,” said Ranganathan, the Joseph Regenstein Professor of Biochemistry and Molecular Biology and Molecular Engineering at the University of Chicago. “In a normal process you have a blueprint and basic principles, and some intelligent being is putting together our past knowledge to build a particular thing.”
+> “These powerful data-driven approaches can get the rules of design even as we are trying to understand the how and why,” explained Ranganathan
+
+* Rama Ranganathan used his 20 years of experience understanding how evolution created the proteins that are known today. Using this experience he and his co-founder Andrew Ferguson developed machine-learning models from existing genome databases to generate novel proteins. 
 
 * The field of molecular engineering is hampered by the pace of human imagination and time. With the advent of generative AI, existing genome databases can synthesize novel proteins at breakneck speed.  
 
-* Funding has been sourced from NVentures, Nvidia, OrbiMed, Valor Equity Partners, and Fidelity Investments. https://pitchbook.com/profiles/company/433306-00#investors
+* Funding has been sourced from NVentures, Nvidia, OrbiMed, Valor Equity Partners, and Fidelity Investments. [Pitchfork]([https://duckduckgo.com](https://pitchbook.com/profiles/company/433306-00#investors)) 
 
 ## Evozyne’s primary function is to develop novel proteins to advance the fields of healthcare, energy, and agriculture.
 
-> * By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
+* By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
 
->> * Dramatic improvements in carbon capture and conversion into usable energy.
->> * Targeted drug therapy to minimize side effects.
->> * Conversion of toxic chemicals into inert form for disposal.
->> * Advances in polymers that do not harm the environment.  
+* Dramatic improvements in carbon capture and conversion into usable energy.
+* Targeted drug therapy to minimize side effects.
+* Conversion of toxic chemicals into inert form for disposal.
+* Advances in polymers that do not harm the environment.  
 
 * The Agricultural, biopharmaceutical, industrial, energy, and environmental industries will benefit directly from this technology.  
 
