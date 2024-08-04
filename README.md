@@ -1,10 +1,8 @@
-<span style="color:green;font-weight:700;font-size:20px">
-markdown color font styles
-</span>
+
 
 # Protein Engineering Advances Using Generative AI 
 
-## The Creation of Novel Proteins
+## The Creation of Novel Proteins {: style=“color: red; opacity: 0.80;” }
 
 * Evozyne
 
