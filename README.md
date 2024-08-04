@@ -23,10 +23,12 @@ Add photos of founders.
 * The field of molecular engineering is hampered by the pace of human imagination and time. With the advent of generative AI, existing genome databases can synthesize novel proteins at breakneck speed.  
 
 * Funding has been sourced from NVentures, Nvidia, OrbiMed, Valor Equity Partners, and Fidelity Investments. [Pitchfork](https://pitchbook.com/profiles/company/433306-00#investors)
-*   
+
+___
+   
 ## Evozyne’s primary function is to develop novel proteins to advance the fields of healthcare, energy, and agriculture.
 
-* By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
+# By synthesizing innumerable unrecognized protein enzymes and determining their characteristics this technology will innovate in the following areas, but not limited to:
 
 * Dramatic improvements in carbon capture and conversion into usable energy.
 * Targeted drug therapy to minimize side effects.
@@ -36,6 +38,8 @@ Add photos of founders.
 * The Agricultural, biopharmaceutical, industrial, energy, and environmental industries will benefit directly from this technology.  
 
 * The wide swath that these industries cover represent trillions of dollars.
+
+# Accomplishments
 
 * Evozyne’s Protein Transformer Variational AutoEncoder (ProT-VAE) using NVIDIA BioNeMo produced two validated novel proteins in less than 12 months. 
 
