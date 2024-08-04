@@ -1,21 +1,14 @@
 ![Evozyne Logo](https://paragonbiosci.com/wp-content/uploads/2022/03/evo_new.png)
 
-Adjust Font / Color
-
-
 # Protein Engineering Advances Using Generative AI 
 
 ## The Creation of Novel Proteins
 
-## Evozyne
+## Evozyne - Founded 2019
 
-* Founded in 2019
+![Rama Ranganathan Picture](https://cdn.theorg.com/8439cf3e-a48e-4fed-bffa-3fc9b81575b9_thumb.jpg) Co-Founder Rama Ranganathan
 
-* Founders Rama Ranganathan & Andrew Ferguson
-
-![Rama Ranganathan Picture](https://cdn.theorg.com/8439cf3e-a48e-4fed-bffa-3fc9b81575b9_thumb.jpg)
-
-![Andrew Ferguson Picture](https://cdn.theorg.com/ae1c89ed-7e6e-42be-ad92-655e7f440d98_thumb.jpg)
+![Andrew Ferguson Picture](https://cdn.theorg.com/ae1c89ed-7e6e-42be-ad92-655e7f440d98_thumb.jpg) Co-Founder Andrew Ferguson
 
 > "Evolution is not like a normal engineering process,” said Ranganathan, the Joseph Regenstein Professor of Biochemistry and Molecular Biology and Molecular Engineering at the University of Chicago. “In a normal process you have a blueprint and basic principles, and some intelligent being is putting together our past knowledge to build a particular thing.”
 > “These powerful data-driven approaches can get the rules of design even as we are trying to understand the how and why,” explained Ranganathan
@@ -91,7 +84,11 @@ ___
 
 * Evozyne's reach is endless in its field. A more specific approach to targeted cancer treatments would both benefit humanity and summarily growth in its business. With greater resources the company would leverage it to greater preeminence.
 
+### "Application of Radiomics in Understanding Tumor Biological Behaviors and Treatment Response"
+*[Artificial intelligence assists precision medicine in cancer treatment](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2022.998222/full)
+
 * Paragon Biosciences, LLC. backing Evozyne’s molecular engineering business allows them to focus on engineering and development. While Paragon focuses on the commercialization of the innovations. This tandem along with their strategic collaboration with NVIDIA and Takada pharmaceuticals provides a strong foundation from which it can achieve superlative results for all of humanity.   
 
 [Paragon Sciences](https://paragonbiosci.com/our-story/)
 
+Specifically quote sources and reference them clearly and accurately.
