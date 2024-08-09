@@ -91,4 +91,4 @@ ___
 
 [Paragon Sciences](https://paragonbiosci.com/our-story/)
 
-Specifically quote sources and reference them clearly and accurately.
+
